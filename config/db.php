@@ -1,8 +1,8 @@
 <?php
-$host = 'sql.freesqldatabase.com';
-$dbname = 'sql1234567';
-$username = 'sql1234567';
-$password = 'yourpassword';
+$host = 'mysql.railway.internal';
+$dbname = 'railway';
+$username = 'root';
+$password = 'XqEeMsoyLwqEiQZBaPswbGGmuzqzEhPu';
 $port = 3306;
 
 try {

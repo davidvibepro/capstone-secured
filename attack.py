@@ -2,7 +2,7 @@ import requests
 import random
 import time
 
-TARGET_URL = "https://your-render-url.onrender.com/backend/login_handler.php"
+TARGET_URL = "https://capstone-secured.onrender.com/backend/login_handler.php"
 EMAIL = "davidsebby@gmail.com"
 
 WORDLIST = [
